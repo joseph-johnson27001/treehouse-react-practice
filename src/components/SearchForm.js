@@ -7,7 +7,9 @@ const SearchForm = () => (
       <FormControl type="search" placeholder="enter something..." />
     </FormGroup>{" "}
     <br />
-    <Button type="submit">search</Button>
+    <Button type="submit" variant="success">
+      Search
+    </Button>
   </Form>
 );
 
