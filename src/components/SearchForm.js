@@ -6,6 +6,7 @@ const SearchForm = () => (
     <FormGroup controlId="formInlineEmail">
       <FormControl type="search" placeholder="enter something..." />
     </FormGroup>{" "}
+    <br />
     <Button type="submit">search</Button>
   </Form>
 );

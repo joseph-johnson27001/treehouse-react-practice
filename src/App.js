@@ -13,6 +13,7 @@ class App extends Component {
             <p>This is a simple search app</p>
 
             <SearchForm />
+            <br />
             <Results />
           </Container>
         </Carousel>
